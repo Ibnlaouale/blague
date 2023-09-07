@@ -1,0 +1,45 @@
+body{
+    height: 100vh !important;
+ 
+    background-color: #256f9d;
+    justify-content: center;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+   
+}
+
+footer{
+    background-color: #212f49 !important;
+    margin-top: auto !important;
+}
+
+.container{
+    height: 40rem !important;
+}
+
+.btn{
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+}
+
+#divBlague{
+    /* border: 2px solid red;  */
+    margin-top: 10% !important;
+}
+
+#blague{
+    margin-top: 15% !important;
+}
+
+#titre{
+    /* border: 1px solid white;  */
+    width: fit-content !important; 
+    margin-top: 10% !important; 
+    display: flex !important; 
+    margin-left: auto !important;
+}
+
+#divBtn{
+    margin-top: 5% !important;
+}
